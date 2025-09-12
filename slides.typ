@@ -1,9 +1,11 @@
 // Lab general slides - personal and lab photos, narcissus selfie, etc.
+#import "@preview/touying:0.6.1": *
+#import "@preview/fontawesome:0.6.0"
 
 #let about_me_slide = [
 = About me 
 
-#figure(image("../figures/narcissus.jpg"), numbering: none, caption:[
+#figure(image("narcissus.jpg"), numbering: none, caption:[
   #text(15pt, fill: gray)[https://en.wikipedia.org/wiki/Narcissus_(Caravaggio)]
 ])
 ]
@@ -12,7 +14,7 @@
 == What we can do together
 
 #slide[
-#figure(image("../figures/narcissus.jpg", width:67%), numbering: none, caption:[
+#figure(image("narcissus.jpg", width:67%), numbering: none, caption:[
   #text(15pt, fill: gray)[https://en.wikipedia.org/wiki/Narcissus_(Caravaggio)]
 ])
 ][
@@ -27,7 +29,7 @@
 == Contact info
 
 #slide(composer: (2fr,3fr))[
-#figure(image("../figures/narcissus.jpg", width:75%), numbering: none, caption:[
+#figure(image("narcissus.jpg", width:75%), numbering: none, caption:[
   #text(15pt, fill: gray)[https://en.wikipedia.org/wiki/Narcissus_(Caravaggio)]
 ])
 
