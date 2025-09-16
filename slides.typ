@@ -29,7 +29,7 @@
 == Contact info
 
 #slide(composer: (2fr,3fr))[
-#figure(image("narcissus.jpg", width:75%), numbering: none, caption:[
+#figure(image("assets/lab_general/narcissus.jpg", width:75%), numbering: none, caption:[
   #text(15pt, fill: gray)[https://en.wikipedia.org/wiki/Narcissus_(Caravaggio)]
 ])
 
