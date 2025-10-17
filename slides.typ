@@ -19,6 +19,8 @@
     ]
   )
 ][
+  == Contact Info
+  #v(2em)
   - #fa-icon("github", font: "Font Awesome 6 Pro Solid") /
     #fa-icon("gitlab", font: "Font Awesome 6 Pro Solid"): `@kescobo`
   - 🔬 (WIP) - https://lab.bonham.ch
