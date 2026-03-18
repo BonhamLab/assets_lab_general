@@ -38,7 +38,7 @@
       cetz-canvas({
       import cetz.draw: *
 
-      content((11,0), text(28pt, weight: "bold")[Thanks!])
+      content((11,0), text(32pt, weight: "bold")[Thanks!])
       content((11,-2), image("lab-logo-banner.png", width: 250pt))
 
 
@@ -57,9 +57,9 @@
       content((10,-7.8), text(24pt, weight: "bold")[Other Collaborators])
       content((7,-10), image("curtis_headshot.jpg", width: 85pt))
       content((10.,-10), image("laurel_headshot.jpg", width: 85pt))
-      content((8,-13), image("emma_headshot.jpg", width: 85pt))
-      content((12.8,-10), image("sean_headshot.png", width: 73pt))
-      content((11.5,-13), image("kirsty_headshot.jpg", width: 71pt))
+      content((8,-12.6), image("emma_headshot.jpg", width: 85pt))
+      content((12.8,-9.8), image("sean_headshot.png", width: 73pt))
+      content((11.5,-12.6), image("kirsty_headshot.jpg", width: 71pt))
 
       content((19,-2), text(24pt, weight: "bold")[Funding])
 
