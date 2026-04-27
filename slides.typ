@@ -25,14 +25,14 @@
   #v(2em)
   - #fa-icon("github", font: "Font Awesome 7 Free") /
     #text(fill:orange)[#fa-icon("gitlab", font: "Font Awesome 7 Free")]: `@kescobo`
-  - 🔬 (WIP) - https://lab.bonham.ch
-  - 🙋 - https://blog.bonham.ch
-  - Julia slack/discourse/zulip etc - just search my name
+  - 🔬 (WIP) - https://bonhamlab.bio
+  - 🙋 - https://kevinbonham.com
+  //- Julia slack/discourse/zulip etc - just search my name
   - #text(fill: blue)[#fa-icon("bluesky", font: "Font Awesome 7 Brands")] https://bsky.app/\@kevinbonham.com
 ]
 
 
-#let thank-you-slide(slidesurl: "https://lab.bonham.ch/presentations/") = {
+#let thank-you-slide(slidesurl: "https://bonhamlab.bio/presentations/") = {
   slide[
     #figure(
       cetz-canvas({
