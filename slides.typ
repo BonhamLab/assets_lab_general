@@ -55,15 +55,16 @@
       content((3,-9.2), image("trisha_headshot.jpg", width: 70pt))
 
       content((10,-7.8), text(24pt, weight: "bold")[Other Collaborators])
-      content((7,-10), image("curtis_headshot.jpg", width: 85pt))
-      content((10.,-10), image("laurel_headshot.jpg", width: 85pt))
-      content((8,-12.6), image("emma_headshot.jpg", width: 85pt))
-      content((12.8,-9.8), image("sean_headshot.png", width: 73pt))
-      content((11.5,-12.6), image("kirsty_headshot.jpg", width: 71pt))
+      content((12.,-10), image("laurel_headshot.jpg", width: 85pt))
+      content((10,-12.6), image("emma_headshot.jpg", width: 85pt))
+      //content((12.8,-9.8), image("sean_headshot.png", width: 73pt))
+      content((13.5,-12.6), image("kirsty_headshot.jpg", width: 71pt))
+      content((7,-10.5), image("curtis_headshot.jpg", width: 100pt))
 
       content((19,-2), text(24pt, weight: "bold")[Funding])
 
-      content((19,-4), image("echo_logo.png", width: 150pt))
+      //content((19,-4), image("echo_logo.png", width: 150pt))
+      content((19.2,-4), image("Tufts_Medical_Center_logo.jpg", width: 200pt))
       content((18,-8), image("1kD_head.png", width: 100pt))
       content((21.2,-8), image("wellcome_leap.png", width: 150pt))
 
