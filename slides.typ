@@ -44,7 +44,7 @@
 
       content((8,-5), image("bahar_headshot.png", width: 80pt))
       content((11,-5.3), image("charlotte_headshot.jpeg", width: 80pt))
-      content((14,-5), image("danielle_headshot.png", width: 81pt))
+      content((14,-5), image("natalie_headshot.png", width: 81pt))
 
       content((0,-3), text(24pt, weight: "bold")[Klepac-Ceraj Lab])
       content((-3,-5), image("vanja_headshot.png", width: 80pt))
